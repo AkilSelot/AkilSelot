@@ -7,7 +7,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akil-selot-619a702a4)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:selotatik@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobat)](https://your-link-to-resume.com)
 
 ---
 
@@ -25,23 +24,23 @@
 <div align="center">
 
 <a href="https://www.python.org" target="_blank">
-    <img src="python.png" alt="Python" width="60" style="margin:5px">
+    <img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" alt="Python" width="60" style="margin:5px">
 </a>
 
 <a href="https://www.mysql.com" target="_blank">
-    <img src="mysql.png" alt="MySQL" width="60" style="margin:5px">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="MySQL" width="60" style="margin:5px">
 </a>
 
 <a href="https://aws.amazon.com" target="_blank">
-    <img src="aws.png" alt="AWS" width="60" style="margin:5px">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="AWS" width="60" style="margin:5px">
 </a>
 
 <a href="https://git-scm.com" target="_blank">
-    <img src="git.png" alt="Git" width="60" style="margin:5px">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" alt="Git" width="60" style="margin:5px">
 </a>
 
 <a href="https://code.visualstudio.com" target="_blank">
-    <img src="vscode.png" alt="VS Code" width="60" style="margin:5px">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="VS Code" width="60" style="margin:5px">
 </a>
 
 </div>
