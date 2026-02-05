@@ -27,15 +27,25 @@
 
 ---
 
+### 📈 GitHub Analytics
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AkilSelot&show_icons=true&theme=radical&hide_border=true" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkilSelot&layout=compact&theme=radical&hide_border=true" height="180" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkilSelot&theme=radical&hide_border=true" width="100%" />
+
+</div>
+
+---
+
 ### 🏆 Featured Projects
-- 📊 **Financial Market Analysis** – Built an interactive Power BI dashboard analyzing stock trends for 100+ companies.  
-[View Project](https://github.com/AkilSelot/Financial-Market-Analysis)
-
-- 🐍 **Sales Predictor** – Python-based forecasting tool improving retail sales predictions by 20%.  
-[View Project](https://github.com/AkilSelot/Sales-Predictor)
-
-- 🗄️ **Database Optimization** – Optimized SQL queries and data models, reducing report generation time by 40%.  
-[View Project](https://github.com/AkilSelot/Database-Optimization)
+- 📊 **Financial Market Analysis** - Interactive Power BI dashboard for stock trends.
+- 🐍 **Sales Predictor** - Python script for cleaning and forecasting retail data.
+- 🗄️ **Database Optimization** - SQL project focusing on query performance and data modeling.
 
 ---
 
