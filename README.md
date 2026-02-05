@@ -23,7 +23,27 @@
 
 ### 🛠️ Data Toolkit
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,excel,tableau,powerbi,aws,git,vscode&perline=8" />
+
+<a href="https://www.python.org" target="_blank">
+    <img src="python.png" alt="Python" width="60" style="margin:5px">
+</a>
+
+<a href="https://www.mysql.com" target="_blank">
+    <img src="mysql.png" alt="MySQL" width="60" style="margin:5px">
+</a>
+
+<a href="https://aws.amazon.com" target="_blank">
+    <img src="aws.png" alt="AWS" width="60" style="margin:5px">
+</a>
+
+<a href="https://git-scm.com" target="_blank">
+    <img src="git.png" alt="Git" width="60" style="margin:5px">
+</a>
+
+<a href="https://code.visualstudio.com" target="_blank">
+    <img src="vscode.png" alt="VS Code" width="60" style="margin:5px">
+</a>
+
 </div>
 
 ---
