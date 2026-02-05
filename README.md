@@ -75,3 +75,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
+
+### 📊 GitHub Streak
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AkilSelot&theme=radical)
+
+</div>
