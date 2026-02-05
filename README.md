@@ -22,7 +22,6 @@
 
 ### 🛠️ Data Toolkit (Click to visit)
 <div align="center">
-
   <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
   <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://skillicons.dev/icons?i=excel" /></a>
@@ -31,7 +30,6 @@
   <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
   <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-
 </div>
 
 ---
