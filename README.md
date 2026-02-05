@@ -1,22 +1,22 @@
-# Akil Selot | Data Analyst 📊
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Akil%20Selot&fontSize=70&desc=Data%20Analyst&descAlignY=70" width="100%"/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akil-selot-619a702a4)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+# 📊 Akil Selot | Data Analyst
+### Transforming Data into Strategic Decisions
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=50&animation=fadeIn" width="100%"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akil-selot-619a702a4)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:selotatik@gmail.com)
 
 ---
 
-### 🔍 Professional Summary
-I am a Data Analyst focused on turning complex datasets into actionable business insights. I specialize in data cleaning, statistical modeling, and creating interactive visualizations.
+</div>
 
-- 🔭 I’m currently working on **Advanced Data Visualization Projects**
-- 🌱 I’m currently learning **Advanced SQL and Tableau**
-- 💬 Ask me about **Excel, SQL, and Python**
-- 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/akil-selot-619a702a4)
+### 🔍 About Me
+- 🔭 I’m currently working on **Data Visualization and Statistical Analysis**
+- 🌱 I’m currently learning **Advanced SQL & Tableau**
+- 💬 Ask me about **Python, Excel, and Data Cleaning**
+- 📫 You can reach me at: **selotatik@gmail.com**
 
 ---
 
