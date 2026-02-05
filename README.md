@@ -35,6 +35,10 @@
 
 <br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkilSelot&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkilSelot&theme=radical&hide_border=true" alt="streak graph" />
 
 </div>
@@ -43,4 +47,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
+</div
