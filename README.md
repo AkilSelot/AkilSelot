@@ -13,36 +13,16 @@
 </div>
 
 ### 🔍 About Me
-- 🔭 Transforming raw data into actionable insights through **Data Visualization & Statistical Analysis**
-- 🌱 Expanding expertise in **Advanced SQL & Tableau** for smarter business decisions
-- 💬 Experienced in **Python, Excel, and Data Cleaning** to support data-driven strategies
+- 🔭 Transforming raw data into actionable insights through **Data Visualization & Statistical Analysis**  
+- 🌱 Expanding expertise in **Advanced SQL & Tableau** for smarter business decisions  
+- 💬 Experienced in **Python, Excel, and Data Cleaning** to support data-driven strategies  
 - 📫 Reach me at: **selotatik@gmail.com**
 
 ---
 
 ### 🛠️ Data Toolkit
 <div align="center">
-
-<a href="https://www.python.org" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" alt="Python" width="60" style="margin:5px">
-</a>
-
-<a href="https://www.mysql.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="MySQL" width="60" style="margin:5px">
-</a>
-
-<a href="https://aws.amazon.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="AWS" width="60" style="margin:5px">
-</a>
-
-<a href="https://git-scm.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" alt="Git" width="60" style="margin:5px">
-</a>
-
-<a href="https://code.visualstudio.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="VS Code" width="60" style="margin:5px">
-</a>
-
+  <img src="https://skillicons.dev/icons?i=python,mysql,aws,git,vscode,excel,tableau,powerbi&perline=8" />
 </div>
 
 ---
@@ -55,10 +35,6 @@
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AkilSelot&theme=radical)
-
-<br/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=AkilSelot&theme=radical&no-frame=true&column=6"/>
 
 </div>
@@ -66,9 +42,9 @@
 ---
 
 ### 🏆 Featured Projects
-- 📊 **Financial Market Analysis** – Built an interactive Power BI dashboard analyzing stock trends for 100+ companies.
-- 🐍 **Sales Predictor** – Python-based forecasting tool improving retail sales predictions by 20%.
-- 🗄️ **Database Optimization** – Optimized SQL queries and data models, reducing report generation time by 40%.
+- 📊 [Financial Market Analysis](https://github.com/AkilSelot/Financial-Market-Analysis) – Built an interactive Power BI dashboard analyzing stock trends for 100+ companies.  
+- 🐍 [Sales Predictor](https://github.com/AkilSelot/Sales-Predictor) – Python-based forecasting tool improving retail sales predictions by 20%.  
+- 🗄️ [Database Optimization](https://github.com/AkilSelot/Database-Optimization) – Optimized SQL queries and data models, reducing report generation time by 40%.
 
 ---
 
@@ -76,3 +52,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
 
+---
+
+### 📊 GitHub Streak
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AkilSelot&theme=radical)
+
+</div>
