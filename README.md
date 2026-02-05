@@ -7,6 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akil-selot-619a702a4)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:selotatik@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=AkilSelot&color=blue) 📫 selotatik@gmail.com  
 
 ---
 
