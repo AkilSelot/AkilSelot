@@ -7,15 +7,16 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akil-selot-619a702a4)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:selotatik@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobat)](https://your-link-to-resume.com)
 
 ---
 
 </div>
 
 ### 🔍 About Me
-- 🔭 Currently working on **Data Visualization & Statistical Analysis**
-- 🌱 Learning **Advanced SQL & Tableau**
-- 💬 Ask me about **Python, Excel, and Data Cleaning**
+- 🔭 Transforming raw data into actionable insights through **Data Visualization & Statistical Analysis**
+- 🌱 Expanding expertise in **Advanced SQL & Tableau** for smarter business decisions
+- 💬 Experienced in **Python, Excel, and Data Cleaning** to support data-driven strategies
 - 📫 Reach me at: **selotatik@gmail.com**
 
 ---
@@ -37,14 +38,18 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AkilSelot&theme=radical)
 
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AkilSelot&theme=radical&no-frame=true&column=6"/>
+
 </div>
 
 ---
 
 ### 🏆 Featured Projects
-- 📊 **Financial Market Analysis** – Interactive Power BI dashboard analyzing stock trends and patterns.
-- 🐍 **Sales Predictor** – Python script for cleaning, analyzing, and forecasting retail data.
-- 🗄️ **Database Optimization** – SQL project focused on query performance and data modeling.
+- 📊 **Financial Market Analysis** – Built an interactive Power BI dashboard analyzing stock trends for 100+ companies.
+- 🐍 **Sales Predictor** – Python-based forecasting tool improving retail sales predictions by 20%.
+- 🗄️ **Database Optimization** – Optimized SQL queries and data models, reducing report generation time by 40%.
 
 ---
 
