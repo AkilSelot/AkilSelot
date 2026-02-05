@@ -1,22 +1,23 @@
 <div align="center">
 
 # 📊 Akil Selot | Data Analyst  
-### Transforming Data into Strategic Decisions  
+### Data Analyst | Business Intelligence | Data Visualization  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=50&animation=fadeIn" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akil-selot-619a702a4)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:selotatik@gmail.com)
 
-</div>
-
 ---
 
+</div>
+
 ### 🔍 About Me
-- 🔭 Working on **Data Visualization & Statistical Analysis**
-- 🌱 Learning **Advanced SQL & Tableau**
-- 💬 Ask me about **Python, Excel, Data Cleaning**
-- 📫 Email: **selotatik@gmail.com**
+- 📊 Data Analyst skilled in transforming complex datasets into actionable insights  
+- 🔭 Experienced in **data visualization, statistical analysis, and reporting**  
+- 🌱 Currently expanding expertise in **Advanced SQL & Tableau**  
+- 💬 Proficient in **Python, Excel, SQL, Data Cleaning, and Exploratory Data Analysis**  
+- 📫 Contact: **selotatik@gmail.com**
 
 ---
 
@@ -28,23 +29,24 @@
 ---
 
 ### 📈 GitHub Analytics
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkilSelot&show_icons=true&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=AkilSelot&show_icons=true&theme=radical&hide_border=true" height="180" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkilSelot&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkilSelot&layout=compact&theme=radical&hide_border=true" height="180" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=akilselot&theme=radical)
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=akilselot&theme=radical" width="100%" />
 
 </div>
 
 ---
 
 ### 🏆 Featured Projects
-- 📊 **Financial Market Analysis** – Power BI dashboard  
-- 🐍 **Sales Predictor** – Python forecasting project  
-- 🗄️ **Database Optimization** – SQL performance tuning  
+- 📊 **Financial Market Analysis** – Built interactive Power BI dashboards to analyze stock market trends and performance  
+- 🐍 **Sales Forecasting Model** – Developed Python pipeline for data cleaning, feature engineering, and sales prediction  
+- 🗄️ **Database Optimization** – Designed optimized SQL queries and schemas to improve query performance  
 
 ---
 
