@@ -40,7 +40,7 @@
 - 🐍 **Sales Predictor** – Python-based forecasting tool improving retail sales predictions by 20%.  
 [View Project](https://github.com/AkilSelot/Sales-Predictor)
 
-- 🗄️ **Database Optimization** – Optimized SQL queries and data models, reducing report generation time by 40%.  
+- 🗄️ **Database Optimization sql server** – Optimized SQL queries and data models, reducing report generation time by 40%.  
 [View Project](https://github.com/AkilSelot/Database-Optimization)
 
 - 📊 **Financial Market Analysis** – Built an interactive Power BI dashboard analyzing stock trends for 100+ companies.  
