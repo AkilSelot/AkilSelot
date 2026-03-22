@@ -41,17 +41,25 @@
 ---
 
 ### 💾 Big Data & Hadoop Experience
-<div align="center">
-  <img src="https://img.shields.io/badge/Hadoop-%E2%9C%85-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Big%20Data-%F0%9F%91%8D-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Lake-%F0%9F%92%BE-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-%F0%9F%98%8A-lightblue?style=for-the-badge" />
-</div>
+<p align="center">
+  <a href="https://github.com/AkilSelot/BigData-Hadoop" target="_blank">
+    <img src="https://img.shields.io/badge/Hadoop-%E2%9C%85-orange?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/AkilSelot/Data-Lakes" target="_blank">
+    <img src="https://img.shields.io/badge/Data%20Lake-%F0%9F%92%BE-purple?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/AkilSelot/Data-Pipelines" target="_blank">
+    <img src="https://img.shields.io/badge/Data%20Pipelines-%F0%9F%91%8D-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/AkilSelot/Pandas-Analysis" target="_blank">
+    <img src="https://img.shields.io/badge/Pandas-%F0%9F%98%8A-lightblue?style=for-the-badge" />
+  </a>
+</p>
 
-- [✅ Hands-on experience with Hadoop ecosystem: HDFS, MapReduce, and basic Spark integration](https://www.apache.org/)  
-- [✅ Designed and maintained data lakes for structured & unstructured data](https://en.wikipedia.org/wiki/Data_lake)  
-- [✅ Optimized large-scale data pipelines for analytics and reporting](https://www.databricks.com/)  
-- [✅ Analyzed big datasets for insights using SQL and Python/Pandas](https://pandas.pydata.org/)  
+- ✅ Hands-on experience with Hadoop ecosystem: HDFS, MapReduce, and basic Spark integration  
+- ✅ Designed and maintained data lakes for structured & unstructured data  
+- ✅ Optimized large-scale data pipelines for analytics and reporting  
+- ✅ Analyzed big datasets for insights using SQL and Python/Pandas  
 
 ---
 
