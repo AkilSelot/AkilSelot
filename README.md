@@ -52,5 +52,9 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AkilSelot/AkilSelot/main/Data%20optimization%20and%20big%20insights.png" alt="Banner">
+  <img src="https://raw.githubusercontent.com/AkilSelot/AkilSelot/banner.gif" 
+       alt="Animated Banner" 
+       width="100%" 
+       style="max-width: 100%; height: auto;">
 </p>
+
