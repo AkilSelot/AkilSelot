@@ -36,18 +36,18 @@
   <a href="https://github.com/AkilSelot/BigData-Data-Lake" target="_blank">
     <img src="https://img.shields.io/badge/Data%20Lake-Medallion%20Architecture-purple?style=for-the-badge" />
   </a>
-  <a href="https://github.com/AkilSelot/BigData-Data-Lake" target="_blank">
+  <a href="https://github.com/AkilSelot/BigData-Hadoop" target="_blank">
     <img src="https://img.shields.io/badge/Hadoop-MapReduce-orange?style=for-the-badge" />
   </a>
-  <a href="https://github.com/AkilSelot/BigData-Data-Lake" target="_blank">
-    <img src="https://img.shields.io/badge/Storage-Parquet%20Optimized-blue?style=for-the-badge" />
+  <a href="https://github.com/AkilSelot/Database-Optimization" target="_blank">
+    <img src="https://img.shields.io/badge/Storage-Optimization-blue?style=for-the-badge" />
   </a>
 </p>
 
 - ✅ **Architected Medallion Data Lake:** Managed data flow through Bronze, Silver, and Gold layers.
 - ✅ **Distributed Computing:** Built custom MapReduce jobs for massive text-log analysis.
-- ✅ **Storage Optimization:** Leveraged Parquet and Columnar storage to reduce query time by 60%.
-- ✅ **Automated ETL:** Engineered bash/python scripts for hands-free data ingestion and cleaning.
+- ✅ **Storage Optimization:** Leveraged Parquet and Columnar storage to reduce query time.
+- ✅ **Automated ETL:** Engineered bash/python scripts for hands-free data ingestion.
 
 ---
 
