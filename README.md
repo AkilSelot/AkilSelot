@@ -1,5 +1,3 @@
-<div align="center">
-
 # 📊 Akil Selot | Data Analyst
 ### Transforming Data into Strategic Decisions
 
@@ -39,8 +37,8 @@
   <a href="https://github.com/AkilSelot/BigData-Hadoop" target="_blank">
     <img src="https://img.shields.io/badge/Hadoop-MapReduce-orange?style=for-the-badge" />
   </a>
-  <a href="https://github.com/AkilSelot/Database-Optimization" target="_blank">
-    <img src="https://img.shields.io/badge/Storage-Optimization-blue?style=for-the-badge" />
+  <a href="https://github.com/AkilSelot/database-optimization-sql-server" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-Optimization-blue?style=for-the-badge" />
   </a>
 </p>
 
@@ -61,6 +59,9 @@
 
 - 📊 **Financial Market Analysis** – Interactive Power BI dashboard for 100+ stock trends.  
 [![View Project](https://img.shields.io/badge/View-Project-orange?style=for-the-badge&logo=github)](https://github.com/AkilSelot/Financial-Market-Analysis)
+
+- 🗄️ **Database Optimization** – Optimized SQL queries and data models for SQL Server.  
+[![View Project](https://img.shields.io/badge/View-Project-green?style=for-the-badge&logo=github)](https://github.com/AkilSelot/database-optimization-sql-server)
 
 ---
 
