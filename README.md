@@ -48,10 +48,10 @@
   <img src="https://img.shields.io/badge/Pandas-%F0%9F%98%8A-lightblue?style=for-the-badge" />
 </div>
 
-- ✅ Hands-on experience with **Hadoop ecosystem**: HDFS, MapReduce, and basic Spark integration  
-- ✅ Designed and maintained **data lakes** for structured & unstructured data  
-- ✅ Optimized **large-scale data pipelines** for analytics and reporting  
-- ✅ Analyzed **big datasets** for insights using SQL and Python/Pandas  
+- [✅ Hands-on experience with Hadoop ecosystem: HDFS, MapReduce, and basic Spark integration](https://www.apache.org/)  
+- [✅ Designed and maintained data lakes for structured & unstructured data](https://en.wikipedia.org/wiki/Data_lake)  
+- [✅ Optimized large-scale data pipelines for analytics and reporting](https://www.databricks.com/)  
+- [✅ Analyzed big datasets for insights using SQL and Python/Pandas](https://pandas.pydata.org/)  
 
 ---
 
