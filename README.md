@@ -52,5 +52,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/banner.png" alt="Database Optimization Banner">
+  <img src="https://raw.githubusercontent.com/AkilSelot/AkilSelot/main/images/banner.png" alt="Database Optimization Banner">
 </p>
