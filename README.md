@@ -52,9 +52,10 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AkilSelot/AkilSelot/banner.gif" 
+  <img src="https://raw.githubusercontent.com/AkilSelot/AkilSelot/main/banner.gif" 
        alt="Animated Banner" 
        width="100%" 
        style="max-width: 100%; height: auto;">
 </p>
+
 
