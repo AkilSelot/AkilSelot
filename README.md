@@ -3,8 +3,10 @@
 # 📊 Akil Selot | Data Analyst
 ### Transforming Data into Strategic Decisions
 
-<!-- Animated waving capsule header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=50&animation=fadeIn" width="100%"/>
+<!-- Clean moving wave only -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&animation=wave" width="100%" />
+</p>
 
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akil-selot-619a702a4)
@@ -50,15 +52,7 @@
 
 ---
 
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AkilSelot/AkilSelot/main/banner.gif" 
-       alt="Animated Banner" 
-       width="100%" 
-       style="max-width: 100%; height: auto;">
-</p>
-
-<!-- Typing animation -->
+<!-- Typing animation under the wave -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Analyst;SQL+%7C+Big+Data;Database+Optimization" />
 </p>
