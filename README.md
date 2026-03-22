@@ -3,15 +3,17 @@
 # 📊 Akil Selot | Data Analyst
 ### Transforming Data into Strategic Decisions
 
+<!-- Animated waving capsule header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=50&animation=fadeIn" width="100%"/>
 
+<!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akil-selot-619a702a4)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:selotatik@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=AkilSelot&color=blue) 
-
----
+[![Profile Views](https://komarev.com/ghpvc/?username=AkilSelot&color=blue)](https://github.com/AkilSelot)
 
 </div>
+
+---
 
 ### 🔍 About Me
 - 🔭 I’m currently working on **Data Visualization and Statistical Analysis**
@@ -37,8 +39,6 @@
 
 ### 🏆 Featured Projects
 
-### 🏆 Featured Projects
-
 - 🐍 **Sales Predictor** – Python-based forecasting tool improving retail sales predictions by 20%.  
 [![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge&logo=github)](https://github.com/AkilSelot/Sales-Predictor)
 
@@ -48,9 +48,9 @@
 - 📊 **Financial Market Analysis** – Built an interactive Power BI dashboard analyzing stock trends for 100+ companies.  
 [![View Project](https://img.shields.io/badge/View-Project-orange?style=for-the-badge&logo=github)](https://github.com/AkilSelot/Financial-Market-Analysis)
 
-
 ---
 
+<!-- Animated Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/AkilSelot/AkilSelot/main/banner.gif" 
        alt="Animated Banner" 
@@ -58,8 +58,7 @@
        style="max-width: 100%; height: auto;">
 </p>
 
+<!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Analyst;SQL+%7C+Big+Data;Database+Optimization" />
 </p>
-
-
