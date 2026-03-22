@@ -21,6 +21,7 @@
 - 🔭 I’m currently working on **Data Visualization and Statistical Analysis**
 - 🌱 I’m currently learning **Advanced SQL & Tableau**
 - 💬 Ask me about **Python, Excel, and Data Cleaning**
+- 💾 Experienced with **Hadoop, Big Data, and Data Lakes**, handling large datasets for analytics and reporting
 - 📫 Reach out to me at: **selotatik@gmail.com**
 
 ---
@@ -36,6 +37,21 @@
   <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </div>
+
+---
+
+### 💾 Big Data & Hadoop Experience
+<div align="center">
+  <img src="https://img.shields.io/badge/Hadoop-%E2%9C%85-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Big%20Data-%F0%9F%91%8D-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Lake-%F0%9F%92%BE-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-%F0%9F%98%8A-lightblue?style=for-the-badge" />
+</div>
+
+- ✅ Hands-on experience with **Hadoop ecosystem**: HDFS, MapReduce, and basic Spark integration  
+- ✅ Designed and maintained **data lakes** for structured & unstructured data  
+- ✅ Optimized **large-scale data pipelines** for analytics and reporting  
+- ✅ Analyzed **big datasets** for insights using SQL and Python/Pandas  
 
 ---
 
