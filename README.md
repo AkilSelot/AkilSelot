@@ -1,3 +1,5 @@
+<div align="center">
+
 # 📊 Akil Selot | Data Analyst
 ### Transforming Data into Strategic Decisions
 
@@ -54,14 +56,17 @@
 - 🌊 **BigData-Data-Lake** – Full Medallion Architecture implementation with Hadoop & Python.  
 [![View Project](https://img.shields.io/badge/View-Project-purple?style=for-the-badge&logo=github)](https://github.com/AkilSelot/BigData-Data-Lake)
 
+- 🐘 **BigData-Hadoop** – Hands-on experience with HDFS, MapReduce, and Spark integration.  
+[![View Project](https://img.shields.io/badge/View-Project-orange?style=for-the-badge&logo=github)](https://github.com/AkilSelot/BigData-Hadoop)
+
+- 🗄️ **Database Optimization** – Optimized SQL queries and data models for SQL Server, reducing runtime by 40%.  
+[![View Project](https://img.shields.io/badge/View-Project-green?style=for-the-badge&logo=github)](https://github.com/AkilSelot/database-optimization-sql-server)
+
 - 🐍 **Sales Predictor** – Python forecasting tool improving retail predictions by 20%.  
 [![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge&logo=github)](https://github.com/AkilSelot/Sales-Predictor)
 
 - 📊 **Financial Market Analysis** – Interactive Power BI dashboard for 100+ stock trends.  
-[![View Project](https://img.shields.io/badge/View-Project-orange?style=for-the-badge&logo=github)](https://github.com/AkilSelot/Financial-Market-Analysis)
-
-- 🗄️ **Database Optimization** – Optimized SQL queries and data models for SQL Server.  
-[![View Project](https://img.shields.io/badge/View-Project-green?style=for-the-badge&logo=github)](https://github.com/AkilSelot/database-optimization-sql-server)
+[![View Project](https://img.shields.io/badge/View-Project-yellow?style=for-the-badge&logo=github)](https://github.com/AkilSelot/Financial-Market-Analysis)
 
 ---
 
