@@ -59,7 +59,7 @@
 - 🐘 **BigData-Hadoop** – Hands-on experience with HDFS, MapReduce, and Spark integration.  
 [![View Project](https://img.shields.io/badge/View-Project-orange?style=for-the-badge&logo=github)](https://github.com/AkilSelot/BigData-Hadoop)
 
-- 🗄️ **Database Optimization** – Optimized SQL queries and data models for SQL Server, reducing runtime by 40%.  
+- 🗄️ **Database Optimization** – Optimized SQL queries and models for SQL Server, reducing runtime by 40%.  
 [![View Project](https://img.shields.io/badge/View-Project-green?style=for-the-badge&logo=github)](https://github.com/AkilSelot/database-optimization-sql-server)
 
 - 🐍 **Sales Predictor** – Python forecasting tool improving retail predictions by 20%.  
