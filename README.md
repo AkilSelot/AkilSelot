@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Analyst;SQL+%7C+Big+Data;Database+Optimization+Expert" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Analyst;SQL+%7C+Big+Data;Database+Optimization" />
 </p>
 
 
