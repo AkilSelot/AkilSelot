@@ -37,14 +37,16 @@
 
 ### 🏆 Featured Projects
 
+### 🏆 Featured Projects
+
 - 🐍 **Sales Predictor** – Python-based forecasting tool improving retail sales predictions by 20%.  
-[View Project](https://github.com/AkilSelot/Sales-Predictor)
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge&logo=github)](https://github.com/AkilSelot/Sales-Predictor)
 
 - 🗄️ **Database Optimization Sql Server** – Optimized SQL queries and data models, reducing report generation time by 40%.  
-[View Project](https://github.com/AkilSelot/Database-Optimization)
+[![View Project](https://img.shields.io/badge/View-Project-green?style=for-the-badge&logo=github)](https://github.com/AkilSelot/Database-Optimization)
 
 - 📊 **Financial Market Analysis** – Built an interactive Power BI dashboard analyzing stock trends for 100+ companies.  
-[View Project](https://github.com/AkilSelot/Financial-Market-Analysis)
+[![View Project](https://img.shields.io/badge/View-Project-orange?style=for-the-badge&logo=github)](https://github.com/AkilSelot/Financial-Market-Analysis)
 
 
 ---
